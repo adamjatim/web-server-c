@@ -3,7 +3,7 @@
 // 1/21/21
 // 
 // Homo Deus C++ Library
-// hdelibc.cpp
+// SimpleSocket.cpp
 // 
 // Adam Rahmat Ilahi
 // 
